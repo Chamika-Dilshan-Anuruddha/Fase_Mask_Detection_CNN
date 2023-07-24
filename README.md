@@ -1,2 +1,2 @@
 # Fase_Mask_Detection_CNN
-### This model identifies werher the person wear the mask or not.
+### This model identifies whether the person wears a face mask or not.
